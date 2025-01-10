@@ -30,7 +30,7 @@ The repository will be made publicly accessible upon the acceptance of the manus
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/JianJuly/CervixAttenNet.git](https://github.com/JianJuly/CervixAttenNet.git)
+   git clone https://github.com/JianJuly/CervixAttenNet.git
    cd CervixAttenNet
    ```
 
