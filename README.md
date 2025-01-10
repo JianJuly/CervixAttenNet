@@ -4,7 +4,6 @@
 
 This repository contains the implementation of **CervixAttenNet**, a transformer-based deep learning model for synthetic CT (sCT) generation from MR images. This work is part of our study submitted to Scientific Reports. The method aims to improve the accuracy of MR-only radiotherapy planning for cervical cancer by generating high-quality sCT images.
 
-The repository will be made publicly accessible upon the acceptance of the manuscript for publication.
 
 ## Features
 
