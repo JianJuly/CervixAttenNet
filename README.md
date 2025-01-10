@@ -60,7 +60,7 @@ Evaluate the trained model on the testing dataset:
 
 If you use this code, please cite our work:
 ```
-@article{your_article,
+@article{Transformer-Based Magnetic Resonance-to-Computed Tomography Synthesis for Radiotherapy for Cervical Cancer: Model Development and Clinical Evaluation,
   title={Transformer-Based Magnetic Resonance-to-Computed Tomography Synthesis for Radiotherapy Planning},
   author={Jian et al.},
   journal={Scientific Reports},
